@@ -1,0 +1,7 @@
+D:\Samples\WCF_Sercurity\basicHttpBinding_Transport\WCFClient\obj\Debug\ResolveAssemblyReference.cache
+D:\Samples\WCF_Sercurity\basicHttpBinding_Transport\WCFClient\bin\Debug\WCFClient.exe
+D:\Samples\WCF_Sercurity\basicHttpBinding_Transport\WCFClient\bin\Debug\WCFClient.pdb
+D:\Samples\WCF_Sercurity\basicHttpBinding_Transport\WCFClient\obj\Debug\WCFClient.exe
+D:\Samples\WCF_Sercurity\basicHttpBinding_Transport\WCFClient\obj\Debug\WCFClient.pdb
+D:\WCF\basicHttpBinding_Transport\WCFClient\obj\Debug\WCFClient.exe
+D:\WCF\basicHttpBinding_Transport\WCFClient\obj\Debug\WCFClient.pdb

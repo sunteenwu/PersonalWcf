@@ -1,0 +1,22 @@
+<publishData>
+  <publishTarget publishUrl="https://localhost/">
+    <file relUrl="bin/BasicServiceLibrary.dll.config" publishTime="04/14/2016 18:53:31" />
+    <file relUrl="bin/BasicServiceLibrary.dll" publishTime="04/14/2016 18:50:53" />
+    <file relUrl="Web.config" publishTime="04/14/2016 18:53:31" />
+    <file relUrl="bin/BasicServiceLibrary.pdb" publishTime="04/14/2016 18:50:53" />
+  </publishTarget>
+  <publishTarget publishUrl="http://localhost/">
+    <file relUrl="bin/BasicServiceLibrary.dll.config" publishTime="04/14/2016 18:26:11" />
+    <file relUrl="BasicServiceLibrary.Service1.svc" publishTime="04/14/2016 18:27:19" />
+    <file relUrl="bin/BasicServiceLibrary.dll" publishTime="04/14/2016 18:27:18" />
+    <file relUrl="Web.config" publishTime="04/14/2016 18:26:11" />
+    <file relUrl="bin/BasicServiceLibrary.pdb" publishTime="04/14/2016 18:27:18" />
+  </publishTarget>
+  <publishTarget publishUrl="http://localhost:8008/">
+    <file relUrl="bin/BasicServiceLibrary.dll.config" publishTime="04/14/2016 18:26:11" />
+    <file relUrl="BasicServiceLibrary.Service1.svc" publishTime="04/14/2016 18:26:22" />
+    <file relUrl="bin/BasicServiceLibrary.dll" publishTime="04/14/2016 18:26:21" />
+    <file relUrl="Web.config" publishTime="04/14/2016 18:26:11" />
+    <file relUrl="bin/BasicServiceLibrary.pdb" publishTime="04/14/2016 18:26:21" />
+  </publishTarget>
+</publishData>

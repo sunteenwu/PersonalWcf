@@ -1,0 +1,5 @@
+D:\Samples\WCF_Sercurity\basicHttpBinding_Transport\WcfIISHostService\bin\WcfIISHostService.dll
+D:\Samples\WCF_Sercurity\basicHttpBinding_Transport\WcfIISHostService\bin\WcfIISHostService.pdb
+D:\Samples\WCF_Sercurity\basicHttpBinding_Transport\WcfIISHostService\obj\Debug\ResolveAssemblyReference.cache
+D:\Samples\WCF_Sercurity\basicHttpBinding_Transport\WcfIISHostService\obj\Debug\WcfIISHostService.dll
+D:\Samples\WCF_Sercurity\basicHttpBinding_Transport\WcfIISHostService\obj\Debug\WcfIISHostService.pdb

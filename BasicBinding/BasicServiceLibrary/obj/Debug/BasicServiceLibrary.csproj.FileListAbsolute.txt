@@ -1,0 +1,5 @@
+D:\WCF\BasicBinding\BasicServiceLibrary\bin\Debug\BasicServiceLibrary.dll.config
+D:\WCF\BasicBinding\BasicServiceLibrary\bin\Debug\BasicServiceLibrary.dll
+D:\WCF\BasicBinding\BasicServiceLibrary\bin\Debug\BasicServiceLibrary.pdb
+D:\WCF\BasicBinding\BasicServiceLibrary\obj\Debug\BasicServiceLibrary.dll
+D:\WCF\BasicBinding\BasicServiceLibrary\obj\Debug\BasicServiceLibrary.pdb

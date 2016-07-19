@@ -1,0 +1,6 @@
+D:\WCF\CWCFNew\Discover\bin\Debug\Discover.exe.config
+D:\WCF\CWCFNew\Discover\bin\Debug\Discover.exe
+D:\WCF\CWCFNew\Discover\bin\Debug\Discover.pdb
+D:\WCF\CWCFNew\Discover\obj\Debug\Discover.csprojResolveAssemblyReference.cache
+D:\WCF\CWCFNew\Discover\obj\Debug\Discover.exe
+D:\WCF\CWCFNew\Discover\obj\Debug\Discover.pdb

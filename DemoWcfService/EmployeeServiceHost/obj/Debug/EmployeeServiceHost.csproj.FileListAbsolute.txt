@@ -1,0 +1,13 @@
+D:\Customer's\DemoWcfService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe.config
+D:\WCF\DemoWcfService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe.config
+D:\WCF\DemoWcfService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe.manifest
+D:\WCF\DemoWcfService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.application
+D:\WCF\DemoWcfService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe
+D:\WCF\DemoWcfService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.pdb
+D:\WCF\DemoWcfService\EmployeeServiceHost\bin\Debug\EmployeeServiceLibrary.dll
+D:\WCF\DemoWcfService\EmployeeServiceHost\bin\Debug\EmployeeServiceLibrary.pdb
+D:\WCF\DemoWcfService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csprojResolveAssemblyReference.cache
+D:\WCF\DemoWcfService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.exe.manifest
+D:\WCF\DemoWcfService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.application
+D:\WCF\DemoWcfService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.exe
+D:\WCF\DemoWcfService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.pdb
